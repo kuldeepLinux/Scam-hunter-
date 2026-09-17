@@ -1,0 +1,2 @@
+phonenumbers==8.13.27
+colorama==0.4.6
