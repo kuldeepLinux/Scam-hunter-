@@ -39,12 +39,23 @@ for any misuse.
 ### 1. Clone the repository
 # 1. Repo clone Commands 
 $ git clone https://github.com/kuldeepLinux/Scam-hunter-.git
+
 $ cd scam-hunter-.git
+
 $ python3 -m venv venv
+
 $ source venv/bin/activate
+
 $ pip install requests
+
 $ pip install -r requirements.txt
+
 $ python3 main.py
+
+
+
+
+
 
 ╔══════════════════════════════════════════════════╗
 ║   🕵️  ScamHunter v2.0 - Main Menu                ║
