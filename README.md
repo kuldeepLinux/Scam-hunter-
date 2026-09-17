@@ -12,7 +12,9 @@
 
 ### 🏠 Main Menu
 
-![ScamHunter Main Menu](images/main_menu.png)
+### 🏠 Main Menu
+
+![ScamHunter Main Menu](menu_compressed.png)
 
 ### 📱 Phone Lookup
 
