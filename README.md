@@ -1,8 +1,10 @@
 <div align="center">
 
-# 🕵️ OSINT TOOL 🔨 FOR SCAMMERS Investigation
+# 🕵️ ScamHunter
 
-### By Kuldeep (CEH) — Certified Ethical Hacker
+### OSINT Tool for Scammer Investigation
+
+**Made with ❤️ by [Kuldeep](https://github.com/kuldeepLinux) — CEH Certified**
 
 > *"The quieter you become, the more you are able to hear."*
 
@@ -17,16 +19,25 @@
 ## ⚠️ Disclaimer
 
 This tool is for **authorized investigation and educational purposes only**.
-Do not use it on targets without permission.
+Do not use it on targets without permission. The author is not responsible
+for any misuse.
+
+---
 
 ## ✨ Features
+
 - 📱 Phone number validation
 - 📡 Carrier & location detection
 - 🌐 VoIP number identification (common in scams)
+- 🕐 Timezone detection
 - 📄 JSON report generation
 
+---
+
 ## 🚀 Installation
+
+### 1. Clone the repository
+
 ```bash
-git clone https://github.com/kuldeepLinux/OSINT-TOOL-FOR-SCAMMERS-Investigation.git
-cd OSINT-TOOL-FOR-SCAMMERS-Investigation
-pip install -r requirements.txt
+git clone https://github.com/kuldeepLinux/Scam-hunter-.git
+cd Scam-hunter-
