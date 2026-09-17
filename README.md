@@ -7,7 +7,15 @@
 **Made with ❤️ by [Kuldeep](https://github.com/kuldeepLinux) — CEH Certified**
 
 > *"The quieter you become, the more you are able to hear."*
+## 📸 Screenshots
 
+### 🏠 Main Menu
+
+![ScamHunter Main Menu](images/main_menu.png)
+
+### 📱 Phone Lookup
+
+![Phone Lookup](images/phone_lookup.png)
 ![Python](https://img.shields.io/badge/Python-3.8+-blue)
 ![License](https://img.shields.io/badge/License-MIT-green)
 ![Author](https://img.shields.io/badge/Author-Kuldeep%20(CEH)-orange)
