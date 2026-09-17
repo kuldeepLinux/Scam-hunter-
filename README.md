@@ -37,7 +37,20 @@ for any misuse.
 ## 🚀 Installation
 
 ### 1. Clone the repository
-
-```bash
+# 1. Repo clone करें
 git clone https://github.com/kuldeepLinux/Scam-hunter-.git
+
+# 2. Folder में जाएं
 cd Scam-hunter-
+
+# 3. Virtual environment बनाएं
+python3 -m venv venv
+
+# 4. Activate करें
+source venv/bin/activate
+
+# 5. Dependencies install करें
+pip install -r requirements.txt
+
+# 6. Tool चलाएं
+python3 main.py -p +9198*****i
