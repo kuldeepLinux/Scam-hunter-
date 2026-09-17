@@ -59,12 +59,20 @@ $ python3 main.py
 
 ╔══════════════════════════════════════════════════╗
 ║   🕵️  ScamHunter v2.0 - Main Menu                ║
-╠══════════════════════════════════════════════════╣
+╠
+══════════════════════════════════════════════════╣
+
 ║   [1] 📱 Phone Number Lookup                     ║
+
+
 ║   [2] 📧 Email Lookup                            ║
-║   [3] 👤 Username Search  (coming soon)          ║
+
+║[3] 👤 Username Search  (coming soon)          ║
+
 ║   [4] 🌐 Domain Lookup    (coming soon)          ║
-║   [5] 🖥️  IP Address Lookup (coming soon)         ║
+║
+[5] 🖥️  IP Address Lookup (coming soon)         ║
+
 ║   [6] 🚪 Exit                                    ║
 ╚══════════════════════════════════════════════════╝
 
