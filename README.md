@@ -37,20 +37,25 @@ for any misuse.
 ## 🚀 Installation
 
 ### 1. Clone the repository
-# 1. Repo clone 
+# 1. Repo clone Commands 
 git clone https://github.com/kuldeepLinux/Scam-hunter-.git
-
-# 2. Folder 
-cd Scam-hunter-
-
-# 3. Virtual environment 
+cd scam-hunter-.git
 python3 -m venv venv
-
-# 4. Activate
 source venv/bin/activate
-
-# 5. Dependencies install
+pip install requests
 pip install -r requirements.txt
+python3 main.py
 
-# 6. Tool 
-python3 main.py -p +9198*****i
+╔══════════════════════════════════════════════════╗
+║   🕵️  ScamHunter v2.0 - Main Menu                ║
+╠══════════════════════════════════════════════════╣
+║   [1] 📱 Phone Number Lookup                     ║
+║   [2] 📧 Email Lookup                            ║
+║   [3] 👤 Username Search  (coming soon)          ║
+║   [4] 🌐 Domain Lookup    (coming soon)          ║
+║   [5] 🖥️  IP Address Lookup (coming soon)         ║
+║   [6] 🚪 Exit                                    ║
+╚══════════════════════════════════════════════════╝
+
+
+
