@@ -8,21 +8,53 @@
 
 > *"The quieter you become, the more you are able to hear."*
 
-## 📸 Screenshots
+![Python](https://img.shields.io/badge/Python-3.8+-blue)
+![License](https://img.shields.io/badge/License-MIT-green)
+![Author](https://img.shields.io/badge/Author-Kuldeep%20(CEH)-orange)
 
-### 🏠 Main Menu
+</div>
+
+---
+
+## ⚠️ Disclaimer
+
+This tool is for **authorized investigation and educational purposes only**.
+Do not use it on targets without permission. The author is not responsible
+for any misuse.
+
+---
+
+## 📸 Screenshots
 
 ### 🏠 Main Menu
 
 ![ScamHunter Main Menu](menu_compressed.png)
 
 ### 📱 Phone Lookup
-![Phone Lookup](phone_compressed.png)(https://img.shields.io/badge/Python-3.8+-blue)
-![Python](https://img.shields.io/badge/Python-3.8+-blue)
-![License](https://img.shields.io/badge/License-MIT-green)
-![Author](https://img.shields.io/badge/Author-Kuldeep%20(CEH)-orange)
 
-</div>
+![Phone Lookup](phone_compressed.png)
+
+---
+
+## ✨ Features
+
+- 📱 Phone number validation
+- 📡 Carrier & location detection
+- 🌐 VoIP number identification (common in scams)
+- 🕐 Timezone detection
+- 📧 Email lookup (breach check, disposable email detection)
+- 👤 Username search (32+ platforms)
+- 📄 JSON report generation
+
+---
+
+## 🚀 Installation
+
+### 1. Clone the repository
+
+```bash
+git clone https://github.com/kuldeepLinux/Scam-hunter-.git
+cd Scam-hunter-
 
 ---
 
