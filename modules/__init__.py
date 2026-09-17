@@ -1,0 +1,1 @@
+# ScamHunter modules package
