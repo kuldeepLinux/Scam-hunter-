@@ -17,9 +17,8 @@
 ![ScamHunter Main Menu](menu_compressed.png)
 
 ### 📱 Phone Lookup
-
-### 📱 Phone Lookup
 ![Phone Lookup](phone_compressed.png)(https://img.shields.io/badge/Python-3.8+-blue)
+![Python](https://img.shields.io/badge/Python-3.8+-blue)
 ![License](https://img.shields.io/badge/License-MIT-green)
 ![Author](https://img.shields.io/badge/Author-Kuldeep%20(CEH)-orange)
 
